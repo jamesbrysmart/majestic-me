@@ -8,3 +8,8 @@ User stories:
 4. User can upload photo of themself
 5. User can add to cart
  
+Views:
+
+1. Login
+2. Pick picture page
+3. Upload picture 
